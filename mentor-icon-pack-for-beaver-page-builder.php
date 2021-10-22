@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Mentor Icon Pack for Beaver Page Builder
  * Description: This is a icon pack addon for beaver page builder. 
- * Plugin URI:  https://codecanyon.net/user/twinkletheme
+ * Plugin URI:  https://github.com/twinkletheme/mentor-icon-pack-for-beaver-page-builder
  * Version:     1.0.0
  * Author:      TwinkleTheme
  * Author URI:  https://codecanyon.net/user/twinkletheme
