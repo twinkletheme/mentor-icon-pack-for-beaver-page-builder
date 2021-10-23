@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/donate?hosted_button_id=3DX42BVZ6ST7E
 Tags: icon, icon pack, beaver builder, icon pack beaver builder, page builder, mentor icon pack
 Requires at least: 4.5
 Tested up to: 5.8.1
-Stable tag: trunk
+Stable tag: 1.0.0
 Requires PHP: 5.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
