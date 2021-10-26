@@ -22,6 +22,8 @@ Mentor Icon Pack is an icon pack for the Beaver page builder. Almost 4K+ icons w
 * <a href="https://cdn.materialdesignicons.com/4.8.95/">Material Design Icon</a>
 
 <b>Pro Version:</b>
+If you want to use all of your favorite icon fonts, Then you can go to the <a href="https://codecanyon.net/item/mentor-icon-pack-for-beaver-page-builder/34369437">Mentor Icon Pack for Beaver Page Builder</a> Pro Version. 
+
 * <a href="https://icons8.com/line-awesome">Line Awesome</a>
 * <a href="https://icofont.com/">Icofont</a>
 * <a href="https://themes-pixeden.com/font-demos/7-stroke/">Stroke 7</a>
